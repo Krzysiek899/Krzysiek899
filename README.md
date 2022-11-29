@@ -4,4 +4,4 @@
 * In my free time I like playing games :video_game: and hiking :sunrise_over_mountains:. 
 
 # My pages:
-* krzysiek899.github.io
+* [Github Pages](krzysiek899.github.io)
