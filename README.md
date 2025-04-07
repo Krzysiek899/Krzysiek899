@@ -27,14 +27,13 @@ Hi! I'm a passionate programmer and a 🎓 **3rd year Computer Science student**
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 🧰 Other Tools  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -58,6 +57,25 @@ Hi! I'm a passionate programmer and a 🎓 **3rd year Computer Science student**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=TODO-app&theme=tokyonight)](https://github.com/Krzysiek899/TODO-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=SSD-Drone_Simulation&theme=tokyonight)](https://github.com/Vexer89/SSD-Drone_Simulation)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vexer89&repo=TKiK-2024-AGH&theme=tokyonight)](https://github.com/Vexer89/TKiK-2024-AGH)
+
+---
+## 📕 Courses 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=Digital-Images-Processing-Course&theme=tokyonight)](https://github.com/Krzysiek899/Digital-Images-Processing-Course)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=Machine-Learning-Course&theme=tokyonight)](https://github.com/Krzysiek899/Machine-Learning-Course)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=DataEngineeringCourse&theme=tokyonight)](https://github.com/Krzysiek899/DataEngineeringCourse)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=Web-Development-Course&theme=tokyonight)](https://github.com/Krzysiek899/Web-Development-Course)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=Java-Course&theme=tokyonight)](https://github.com/Krzysiek899/Java-Course)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=C--Course&theme=tokyonight)](https://github.com/Krzysiek899/C--Course)
+
+
 
 ---
 
