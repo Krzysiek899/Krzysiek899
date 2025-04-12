@@ -54,6 +54,8 @@ Hi! I'm a passionate programmer and a 🎓 **3rd year Computer Science student**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=ORM-Library&theme=tokyonight)](https://github.com/Krzysiek899/ORM-Library)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MBrosik&repo=forest-fire&theme=tokyonight)](https://github.com/MBrosik/forest-fire)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=TODO-app&theme=tokyonight)](https://github.com/Krzysiek899/TODO-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Krzysiek899&repo=SSD-Drone_Simulation&theme=tokyonight)](https://github.com/Vexer89/SSD-Drone_Simulation)
